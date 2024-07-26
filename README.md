@@ -22,8 +22,8 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 - Automation and script writing
 
 ## 🚀 Notable Projects
-- [DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT](link): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
-- [Othello_game_RWTH_UNI_EXAM](link): Othello game: Assignment of RWTH UNIVERSITY, Germany for first year students
+- [DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT](https://github.com/Iamme00/In_DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
+- [Othello_game_RWTH_UNI_EXAM](https://github.com/Iamme00/Othello_game_RWTH_UNI_EXAM): Othello game: Assignment of RWTH UNIVERSITY, Germany for first year students
 
 ## 🌱 Currently Learning
 - Advanced penetration testing techniques
