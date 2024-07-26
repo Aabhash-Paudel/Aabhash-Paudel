@@ -1,4 +1,4 @@
-# Hello, I'm Aabhash Paudel <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello, I'm Aabhash Paudel 👋
 
 I'm a cybersecurity student and developer passionate about creating secure software solutions.
 
@@ -40,15 +40,13 @@ I'm a cybersecurity student and developer passionate about creating secure softw
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
     <a href="https://www.linkedin.com/in/aabhash-paudel-907b41293/" alt="Linkedin">
-      <img align="left" alt="Aabhash | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
-    </a>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    </a><br>
     <a href="mailto:itsmeavron@gmail.com" alt="Contact me">
-      <img align="left" alt="Aabhash | Gmail" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
   </p>
 </p>
-
-<br />
 
 ## 📫 More
 - GitHub: [@Iamme00](https://github.com/Iamme00)
@@ -56,4 +54,14 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iamme00&show_icons=true&theme=radical"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamme00&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamme00&theme=radical"/>
 </p>
