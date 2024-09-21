@@ -53,5 +53,5 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aabhash-Paudel&show_icons=true&theme=radical"/>
 </p>
