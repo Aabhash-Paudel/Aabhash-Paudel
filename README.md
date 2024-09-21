@@ -28,8 +28,8 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 - Automation and script writing
 
 ## 🚀 Notable Projects
-- [**DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT**](https://github.com/Iamme00/In_DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
-- [**Othello_game_RWTH_UNI_EXAM**](https://github.com/Iamme00/Othello_game_RWTH_UNI_EXAM): Othello game: Assignment of RWTH UNIVERSITY, Germany for first year students
+- [**DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT**](https://github.com/Aabhash-Paudel/In_DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
+- [**Othello_game_RWTH_UNI_EXAM**](https://github.com/Aabhash-Paudel/Othello_game_RWTH_UNI_EXAM): Othello game: Assignment of RWTH UNIVERSITY, Germany for first year students
 
 ## 🌱 Currently Learning
 - Advanced penetration testing techniques
@@ -49,9 +49,9 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 </p>
 
 ## 📫 More
-- GitHub: [@Iamme00](https://github.com/Iamme00)
+- GitHub: [@](https://github.com/)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamme00&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical"/>
 </p>
