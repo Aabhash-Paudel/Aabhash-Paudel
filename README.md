@@ -29,12 +29,13 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 
 ## 🚀 Notable Projects
 - [**DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT**](https://github.com/Aabhash-Paudel/In_DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
-- [**Othello_game_RWTH_UNI_EXAM**](https://github.com/Aabhash-Paudel/Othello_game_RWTH_UNI_EXAM): Othello game: Assignment of RWTH UNIVERSITY, Germany for first year students
+- [**Windows-Based Keylogger**](https://github.com/Aabhash-Paudel/Key-Logger): KEYLOGGER: PERSONAL PROJECT
 
 ## 🌱 Currently Learning
 - Advanced penetration testing techniques
 - Penetration tools Development
 - Web hacking
+- Android Application testing
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -50,8 +51,3 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 
 ## 📫 More
 - GitHub: [@](https://github.com/)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aabhash-Paudel&show_icons=true&theme=radical"/>
-</p>
