@@ -28,7 +28,8 @@ I'm a cybersecurity student and developer passionate about creating secure softw
 - Automation and script writing
 
 ## 🚀 Notable Projects
-- [**DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT**](https://github.com/Aabhash-Paudel/In_DEPTH_VULNERABILITY_SCANNER_WITH_METASPLOIT): A powerful automated network vulnerability scanner integrating Nmap and Metasploit.
+- [**DDoS ATTACK DETECTION**](https://github.com/Aabhash-Paudel/DetectingDDosAttacks): A full-stack web application for detecting Distributed Denial of Service (DDoS) attacks using Machine Learning. Upload Wireshark PCAP files, CIC-format CSV data, or manually enter network flow features to get instant threat analysis.
+- [**MALWARE DETECTION SYSTEM**](https://github.com/Aabhash-Paudel/alt-malware-file-classifier/tree/main): A robust, end-to-end malware detection system capable of analyzing Windows PE files
 - [**Windows-Based Keylogger**](https://github.com/Aabhash-Paudel/Key-Logger): KEYLOGGER: PERSONAL PROJECT
 
 ## 🌱 Currently Learning
